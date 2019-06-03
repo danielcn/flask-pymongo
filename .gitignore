@@ -2,4 +2,4 @@
 .vscode
 
 # Ignore Pipenv.lock
-Pipenv.lock
+Pipfile.lock
