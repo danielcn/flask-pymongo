@@ -1,0 +1,5 @@
+# Ignore VSCode
+.vscode
+
+# Ignore Pipenv.lock
+Pipenv.lock
