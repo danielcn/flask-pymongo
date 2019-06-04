@@ -3,3 +3,7 @@
 
 # Ignore Pipenv.lock
 Pipfile.lock
+
+
+# Ignore mongo data
+data
