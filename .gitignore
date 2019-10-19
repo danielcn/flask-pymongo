@@ -2,7 +2,7 @@
 .vscode
 
 # Ignore Pipenv.lock
-Pipfile.lock
+app/Pipfile.lock
 
 
 # Ignore mongo data
